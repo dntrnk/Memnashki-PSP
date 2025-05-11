@@ -1,1 +1,2 @@
-# Memnashki-PSP
+# Memnashki (PSP)
+Пятнашки с мемами вместо чисел
