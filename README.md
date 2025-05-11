@@ -1,5 +1,6 @@
 # Memnashki (PSP)
 [![GitHub release (with filter)](https://img.shields.io/github/v/release/dntrnk/Memnashki-PSP?logo=github&color=yellow)](https://github.com/dntrnk/Memnashki-PSP/releases/latest)
+[![GitHub all releases](https://img.shields.io/github/downloads/dntrnk/Memnashki-PSP/total?logo=github&color=orange)](https://github.com/dntrnk/Memnashki-PSP/releases/)  
 
 "Пятнашки" с мемами вместо чисел для PSP
 
